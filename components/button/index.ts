@@ -7,3 +7,5 @@ export type { ButtonGroupProps } from './button-group';
 export * from './buttonHelpers';
 
 export default Button;
+
+console.log(1)
